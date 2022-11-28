@@ -1,1 +1,1 @@
-# stocks-nanlysis
+# stocks-ananlysis
